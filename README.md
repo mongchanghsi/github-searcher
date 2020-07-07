@@ -28,13 +28,13 @@ Live Website: https://eric-github-searcher.netlify.app/
 
 ### Images
 
-![](readmeimg/img1.png)
+![](readmeimg/img1.PNG)
 
-![](readmeimg/img2.png)
+![](readmeimg/img2.PNG)
 
-![](readmeimg/img3.png)
+![](readmeimg/img3.PNG)
 
-![](readmeimg/img4.png)
+![](readmeimg/img4.PNG)
 
 --------------------
 
