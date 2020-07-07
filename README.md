@@ -1,6 +1,6 @@
 # Github-Searcher
 
-Responsive github searcher program, allowing user to search for a user's repository, organization that the user is belonging to and quick access to specific repository
+Responsive Github searcher program using Github's API, allowing user to search for a user's repository, organization that the user is belonging to and quick access to specific repository
 
 Bootstrapped using create-react-app and MaterialUI
 
@@ -28,13 +28,13 @@ Live Website: https://eric-github-searcher.netlify.app/
 
 ### Images
 
-![img1](C:\Users\m_cha\Desktop\react-storage\github-searcher\main\readmeimg\img1.PNG)
+![](readmeimg/img1.png)
 
-![img2](C:\Users\m_cha\Desktop\react-storage\github-searcher\main\readmeimg\img2.PNG)
+![](readmeimg/img2.png)
 
-![img3](C:\Users\m_cha\Desktop\react-storage\github-searcher\main\readmeimg\img3.PNG)
+![](readmeimg/img3.png)
 
-![img4](C:\Users\m_cha\Desktop\react-storage\github-searcher\main\readmeimg\img4.PNG)
+![](readmeimg/img4.png)
 
 --------------------
 
