@@ -1,68 +1,41 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Github-Searcher
 
-## Available Scripts
+Responsive github searcher program, allowing user to search for a user's repository, organization that the user is belonging to and quick access to specific repository
 
-In the project directory, you can run:
+Bootstrapped using create-react-app and MaterialUI
 
-### `npm start`
+Testing: Jest and Enzyme
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Deployment: Netlify
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+Live Website: https://eric-github-searcher.netlify.app/
 
-### `npm test`
+----------------------------------
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Instructions
+1. Clone the repository
+2. Using ```cmd``` and change the directory to the repository
+3. Install npm using ```npm install```
+4. Start the program using ```npm start```
+5. Access the program via ```http://localhost:3000/``` from your browser
 
-### `npm run build`
+### Features
+1. Inform user if there is an missing username input
+2. Inform user if username input does not exist
+3. Inform user if Github's user does not have any repository or organization
+4. Allow user to access a specific repository after search
+5. Scroll-to-top button
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Images
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+![img1](C:\Users\m_cha\Desktop\react-storage\github-searcher\main\readmeimg\img1.PNG)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![img2](C:\Users\m_cha\Desktop\react-storage\github-searcher\main\readmeimg\img2.PNG)
 
-### `npm run eject`
+![img3](C:\Users\m_cha\Desktop\react-storage\github-searcher\main\readmeimg\img3.PNG)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+![img4](C:\Users\m_cha\Desktop\react-storage\github-searcher\main\readmeimg\img4.PNG)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+--------------------
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+End of Report
