@@ -30,6 +30,7 @@ function Searcher(props){
     if (username.length <= 0){
       console.log('FROM validate(): Input is not recognized')
       setValidateError(true)
+      setNoUserExist(false)
       props.setRepo([])
       props.setOrgs([])
       return false
